@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config camera-radius="500" background-color="000000">
+	<hulls>
+		<model file="models/empty.3ds"  texture="models/empty.jpg"/>
+	</hulls>
+	<boxes>
+		<model file="models/box.3ds"  texture="textures/supplies/MK.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/MK_21_12_NewYear.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/MK_22_02_ValentinesDay.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/MK_22_07_Birthday.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/DA.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/DA_21_12_NewYear.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/DA_22_02_ValentinesDay.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/DA_22_07_Birthday.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/DD.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/DD_21_12_NewYear.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/DD_22_02_ValentinesDay.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/DD_22_07_Birthday.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/SB.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/SB_21_12_NewYear.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/SB_22_02_ValentinesDay.jpg"/>
+		<model file="models/box.3ds"  texture="textures/supplies/SB_22_07_Birthday.jpg"/>
+		<model file="models/box.3ds"  texture="textures/crystals/10Kr.jpg"/>
+		<model file="models/box.3ds"  texture="textures/crystals/21_12_NewYear_10Kr.jpg"/>
+		<model file="models/box.3ds"  texture="textures/crystals/22_02_ValentinesDay_10Kr.jpg"/>
+		<model file="models/box.3ds"  texture="textures/crystals/22_07_Birthday_10Kr.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/1000Kr.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/21_12_NewYear_2000Kr.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/22_02_ValentinesDay_1000Kr.jpg"/>
+		<model file="models/gold.3ds"  texture="textures/golds/22_04_AprilFoolsDay_Rnd.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/22_04_AprilFoolsDay_Rnd_Unused.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/22_04_AprilFoolsDay_Rnd_Unused2.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/22_04_CosmonauticsDay_1000Kr.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/22_04_CosmonauticsDay_3000Kr.jpg"/>
+		<model file="models/egg.3ds"  texture="textures/golds/22_04_EasterDay_RndKr.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/22_04_EasterDay_1000Kr_Unused.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/22_05_VictoryDay_1000Kr.jpg"/>
+		<model file="models/cake.3ds"  texture="textures/golds/22_07_Birthday_3000Kr.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/22_07_Birthday_5000Kr_Unused.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/22_07_Birthday_1000Kr_Unused.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/22_08_RailwayWorkersDay_2000Kr.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/22_09_TankersDay_1000Kr.jpg"/>
+		<model file="models/box.3ds"  texture="textures/golds/22_10_Halloween_1000Kr.jpg"/>
+		<model file="models/pumpkin.3ds"  texture="textures/golds/22_10_Halloween_3000Kr.jpg"/>
+	</boxes>
+</config>
