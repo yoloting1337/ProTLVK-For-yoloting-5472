@@ -1,5 +1,5 @@
 # ProTLVK Mod
-ProTLVK с добавками хз
+ProTLVK Добавленно много плюшек для Омпешеров.
 
 Mod by - ```yoloting#5472```
 
